@@ -1,2 +1,3 @@
 # InteracE-Transfer
-Using the interac E-Transfer API, we can ask Amazon Alexa or Google Assistant to request money.
+Users can request money using voice commands with Amazon Alexa and Google Assistant.
+Built using a prototype version of the Interac e-Transfer API.
